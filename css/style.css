@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Josefin+Sans:wght@400;500&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Raleway:wght@400;500;600&family=Ubuntu:ital,wght@1,500&display=swap');
+
+
+
+
+
+
+.main{
+border:1px solid gray;
+margin-left:415px;
+margin-right:415px;
+white-space:wrap;
+text-indent:15px;
+font-family: 'Raleway', sans-serif;
+/* font-family: 'Ubuntu', sans-serif; */
+}
+button{
+background-color:green;
+color:white;
+font-size:20px;
+margin-left:15px;
+font-family: 'Raleway', sans-serif;
+/* font-family: 'Ubuntu', sans-serif; */
+
+}
+p.first{
+margin-top:-20px;
+margin-left:355px;
+
+font-family: 'Raleway', sans-serif;
+/* font-family: 'Ubuntu', sans-serif; */
+}
+img.second{
+ border-radius:50%;
+
+ }
+ .final{
+     margin-bottom:20px;
+	 display:flex;
+	 
+
+ }
+ 
+ 
